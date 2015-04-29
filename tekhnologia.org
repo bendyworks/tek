@@ -56,7 +56,7 @@ backups (Heroku backups)
 monitoring (TBD)
 
 *** Deployment/Operations [0/4]
-- [ ] 
+- [ ] exception monitoring (fix your bug before the customer sees it): Airbrake
 - [ ] 
 - [ ] 
 - [ ] 
