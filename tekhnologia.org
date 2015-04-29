@@ -1,0 +1,74 @@
+* Tekhnologia
+This document is designed to guide us in finding a highly-effective technology
+stack that's both well-considered and represents something like *best
+practices*. I qualify *best-practices* because my intent is to be ahead of the
+pack on "how things are done."
+
+I will ask any interested parties to help me out in this by swapping out an item
+in the tech stack on each client project. I'm hoping that by doing some
+relatively low-risk experiments, we can find tools that well for us.
+
+** Points to understand for any tech
+These define what it is to know a technology or platform. There may be other
+facets to consider, but these are are surely necessary if not sufficient.
+
+1. package/module management
+2. deploying
+3. testing
+4. debugging
+   
+** Needs (may be unmet)
+These are the broad categories of tech that we use (or probably should). In some
+of these cases I’m going to offer what’s the current consensus opinion on that
+category’s inhabitant.
+
+*** DONE Server-side [4/4]
+- [X] rubygems, bundler
+- [X] Heroku
+- [X] rspec/minitest
+- [X] pry/irb
+
+*** TODO Client-side [2/4]
+- [X] package/module management - Yeoman templates: http://yeoman.io/
+- [ ] deploying
+- [ ] testing
+- [X] node/iojs (TBD?)
+
+*** Mobile [0/4]
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+
+Development (TBD)
+Build (TBD)
+Lifecycle management (TBD)
+Testing (smoke testing on devices, in particular) (TBD)
+
+*** Database [0/4]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+hosting (Heroku)
+backups (Heroku backups)
+monitoring (TBD)
+
+*** Deployment/Operations [0/4]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+Servers (Heroku)
+Continuous integration (Travis, Jenkins, TBD)
+Monitoring (performance, bugs, etc.) (Airbrake, Raygun.io, TBD)
+
+*** Version Control [0/4]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+Source hosting (GitHub)
