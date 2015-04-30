@@ -6,7 +6,7 @@ pack on "how things are done."
 
 I will ask any interested parties to help me out in this by swapping out an item
 in the tech stack on each client project. I'm hoping that by doing some
-relatively low-risk experiments, we can find tools that well for us.
+relatively low-risk experiments, we can find tools that work well for us.
 
 ** Points to understand for any tech
 These define what it is to know a technology or platform. There may be other
